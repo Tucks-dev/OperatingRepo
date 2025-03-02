@@ -17,7 +17,7 @@ Another thing I did well was integrating software design principles into the pro
 
 **How the Design Process Helped with Coding**
 
-Writing out a detailed design document first made the coding process so much smoother. By mapping out how everything connects—like how teams and players interact with the game—I didn’t have to constantly go back and rework things.
+Writing out a detailed design document first made the coding process so much smoother. By mapping out how everything connects, like how teams and players interact with the game, I didn’t have to constantly go back and rework things.
 
 It also helped me think ahead about potential issues, like making sure user authentication was secure and planning for cross-platform compatibility. Having a solid blueprint before jumping into the code saved a lot of time.
 
